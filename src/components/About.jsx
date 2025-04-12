@@ -13,7 +13,7 @@ const About = () => {
           <div className="space-y-6">
             <div className="text-gray-600 dark:text-gray-300">
               <p className="mb-4 text-lg">
-                I am a software engineer with expertise in full-stack development.
+                I am a software engineer with expertise in full-stack development & AI Development.
                 I excel in creating efficient, scalable, and user-friendly applications that solve real-world problems.
               </p>
               <p className="text-lg">
