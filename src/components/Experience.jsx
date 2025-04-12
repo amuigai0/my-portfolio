@@ -8,7 +8,7 @@ const Experience = () => {
       date: 'Aug 2024 - Present',
       desc: [
         'Designed and implemented a Web Scraping tool using LangGraph Agents and API calls', 
-        'Integrated Google Developer APIs to build a feature allowing clients to upload custom',
+        'Integrated Google Developer APIs to build a feature allowing clients to upload their files and receive a summary of the content',
         'Developed a custom website using React JS to showcase products, supporting successful application for Google Cloud’s startup fund program',
         'Debugged and resolved software bugs in the main codebase'
       ],

@@ -6,7 +6,7 @@ import Sheria from '../assets/images/sheria.png';
 const Projects = () => {
   const projects = [
     { title: 'Infant cry classification model', desc: 'A ML model using python to classify reasons for a baby crying', img: CryImage },
-    { title: 'Gazettes Web Scraping Script', desc: 'A scaraping script that scrapes publically available gazettes and extracts the metadata', img: Gazette },
+    { title: 'Gazettes Web Scraping Script', desc: 'A scraping script that scrapes publically available gazettes and extracts the metadata', img: Gazette },
     { title: 'Project Sheria', desc: 'A fullstack React JS website where users can view the latest gazettes published in kenya', img: Sheria },
   ];
 
